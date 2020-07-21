@@ -7,7 +7,7 @@ implementation of cross-platform app-development framework Google Flutter. It
 contains crisp UI with full API integration.
 
 ## Web Services Used: 
-### Open-Source API: The API is maintained by https://github.com/NovelCOVID/API .
+### Open-Source API: The API is maintained by [NovelCOVID](https://github.com/NovelCOVID/API) .
 ### API-Link: https://corona.lmao.ninja/
 
 ## Getting Started ✨
@@ -32,7 +32,7 @@ git clone https://github.com/jaisal1311/COVID-19-TRACKER.git
 
 ## Contributing 🤝
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/jaisal1311/jaisal1311/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors Search Results ✍️
 

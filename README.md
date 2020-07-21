@@ -50,6 +50,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * etc
 
 
-
 Feel free to use and modify/customize the App.
 If any issues, do contact!!! 😊
